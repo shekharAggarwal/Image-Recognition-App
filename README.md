@@ -10,7 +10,15 @@ This is a project of recognition of image using SSD and YOLO model in flutter.
 
 ### Screenshots
 
-<img src="1.png" height="300em" /> <img src="2.png" height="300em" /> <img src="3.png" height="300em" />
+<img src="1.png" height="300em" /> 
+
+#### Using YOLO model
+
+<img src="2.png" height="300em" /> 
+
+#### Using SSD model
+
+<img src="3.png" height="300em" />
 
 ### Created & Maintained By
 [Shekhar Aggarwal](https://github.com/shekharAggarwal)
